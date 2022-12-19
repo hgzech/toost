@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "toost"
+  site-url: "https://hgzech.github.io/toost"
+  description: "A tost project."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/toost"
